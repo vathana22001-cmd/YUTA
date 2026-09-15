@@ -1,0 +1,7 @@
+# Local secrets and Python environments
+.env
+.venv/
+.yuta-runtime/
+.yuta.lock
+__pycache__/
+*.pyc
